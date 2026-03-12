@@ -56,10 +56,9 @@ Data Cleaning & Transformation
 ✔ Year-wise content growth
 
 📸 Dashboard Preview
+(netflix_dashboard.png)
 
-(Add your dashboard screenshot here)
-
-![Dashboard]("C:\Users\lenovo\OneDrive\Pictures\Screenshots\Screenshot 2026-03-12 114506.png")
+![Dashboard](netflix_dashboard.png)
 📈 Key Insights
 
 Movies make up a larger portion of Netflix content compared to TV Shows.
