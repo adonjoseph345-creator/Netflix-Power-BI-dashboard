@@ -58,7 +58,7 @@ Data Cleaning & Transformation
 📸 Dashboard Preview
 (netflix_dashboard.png)
 
-![Dashboard](netflix_dashboard.png)
+![Dashboard](netflix_dashboard.png.png)
 📈 Key Insights
 
 Movies make up a larger portion of Netflix content compared to TV Shows.
